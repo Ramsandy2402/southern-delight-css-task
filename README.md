@@ -18,13 +18,12 @@ This project demonstrates the creation of a simple and elegant website using bas
 
 # How to View
 
-# Clone the repository:
-git clone https://github.com/yourusername/Tasty-Tamil-Delights.git
+Clone the repository:
+git clone https://github.com/Ramsandy2402/southern-delight-css-task.git
 
-# Navigate to the project directory:
-cd Tasty-Tamil-Delights
+Navigate to the project directory:
+cd southern-delight-css-task
 
-# Open index.html in your browser:
-
+Open index.html in your browser:
 You can simply double-click the index.html file, or open it using a code editor's live server feature.
 
